@@ -1,0 +1,34 @@
+div{ 
+    background:linear-gradient(to right, #d60d93, #15bce6, #09f090);       
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+Body{
+    background: linear-gradient(to right, #d60d93, #15bce6, #09f090);
+}
+H1{
+    color:white;
+    text-align:center;
+}
+h2{
+    color:grey;
+    text-align:center;
+}
+h3{
+    color:rgb(236, 222, 22);
+    text-align:center;
+}
+H4{
+    color:rgb(12, 16, 236);
+    text-align:center;
+}
+p{
+    color:rgb(236, 22, 22);
+    text-align:center;
+}
+marquee{
+    color:rgb(9, 12, 211);
+    font-size:30px;
+    font-weight:bold;
+}
